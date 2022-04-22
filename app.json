@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot1",
-  "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
+  "repository": "https://github.com/Oura-Ubot/Oura-XFsub-Bot1",
+  "logo": "https://telegra.ph/file/16222aa1d815bc26c950f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
