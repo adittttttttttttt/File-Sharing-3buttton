@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Oura-Ubot/Oura-XFsub-Bot1",
+  "repository": "https://github.com/Oura-Ubot/Oura-XFsub-Bot2",
   "logo": "https://telegra.ph/file/16222aa1d815bc26c950f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -30,6 +30,10 @@
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL1":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "0"
+    },
+    "FORCE_SUB_CHANNEL2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "0"
     },
